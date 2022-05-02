@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyWeb", "ToyWeb\ToyWeb.csproj", "{898C9898-D7E0-48D9-BCA4-F2227FC5D205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyData", "ToyData\ToyData.csproj", "{6481AF53-8AFF-4CE6-B516-4E7BC9E4DB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898C9898-D7E0-48D9-BCA4-F2227FC5D205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898C9898-D7E0-48D9-BCA4-F2227FC5D205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898C9898-D7E0-48D9-BCA4-F2227FC5D205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898C9898-D7E0-48D9-BCA4-F2227FC5D205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6481AF53-8AFF-4CE6-B516-4E7BC9E4DB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6481AF53-8AFF-4CE6-B516-4E7BC9E4DB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6481AF53-8AFF-4CE6-B516-4E7BC9E4DB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6481AF53-8AFF-4CE6-B516-4E7BC9E4DB65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D464A1F-0857-442C-A09A-563A540B6898}
+	EndGlobalSection
+EndGlobal

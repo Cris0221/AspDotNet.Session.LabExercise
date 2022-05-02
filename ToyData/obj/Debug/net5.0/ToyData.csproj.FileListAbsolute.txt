@@ -1,0 +1,15 @@
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\bin\Debug\net5.0\ToyData.deps.json
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\bin\Debug\net5.0\ToyData.runtimeconfig.json
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\bin\Debug\net5.0\ToyData.runtimeconfig.dev.json
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\bin\Debug\net5.0\ToyData.dll
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\bin\Debug\net5.0\ToyData.pdb
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.csproj.AssemblyReference.cache
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.AssemblyInfoInputs.cache
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.AssemblyInfo.cs
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.csproj.CoreCompileInputs.cache
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.dll
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\refint\ToyData.dll
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.pdb
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ToyData.genruntimeconfig.cache
+C:\Users\cristobal.fragata\source\repos\AspDotNet.Session.LabExercise\ToyData\obj\Debug\net5.0\ref\ToyData.dll
